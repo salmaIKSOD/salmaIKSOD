@@ -1,7 +1,7 @@
 ## Bonjour, je suis Salma IKSOD 
 
 🎓 Étudiante en Science des Données & Systèmes Intelligents
-# Passionnée par le développement, la data science et les technologies intelligentes
+Passionnée par le développement, la data science et les technologies intelligentes
 
 ## Compétences :
 📊 Data Science & Systèmes Intelligents
@@ -11,7 +11,6 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ![Data Mining](https://img.shields.io/badge/Data%20Mining-4CAF50?style=for-the-badge)
-![Data Warehouse](https://img.shields.io/badge/Data%20Warehousing-795548?style=for-the-badge)
 ![Talend](https://img.shields.io/badge/Data%20Warehouse%20(Talend)-FF6D00?style=for-the-badge&logo=talend&logoColor=white)
 ![Big Data](https://img.shields.io/badge/Big%20Data-FF9800?style=for-the-badge)
 
