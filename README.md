@@ -1,6 +1,7 @@
 ## Bonjour, je suis Salma IKSOD 
 
-🎓 Étudiante en Science des Données & Systèmes Intelligents #
+🎓 Étudiante en Science des Données & Systèmes Intelligents 
+
 Passionnée par le développement, la data science et les technologies intelligentes
 
 ## Compétences :
